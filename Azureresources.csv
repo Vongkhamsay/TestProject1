@@ -1,0 +1,5 @@
+﻿NAME,TYPE,LOCATION,RESOURCE LINK
+"ASP-ITExploration-b218","App Service plan","North Central US","https://portal.azure.com#resource/subscriptions/fc14a5fd-5bc6-49a1-aff1-d5deb707e2d5/resourceGroups/ITExploration/providers/Microsoft.Web/serverFarms/ASP-ITExploration-b218"
+"itexplorationserver","SQL server","North Central US","https://portal.azure.com#resource/subscriptions/fc14a5fd-5bc6-49a1-aff1-d5deb707e2d5/resourceGroups/ITExploration/providers/Microsoft.Sql/servers/itexplorationserver"
+"TemeratureMonitoring","App Service","North Central US","https://portal.azure.com#resource/subscriptions/fc14a5fd-5bc6-49a1-aff1-d5deb707e2d5/resourceGroups/ITExploration/providers/Microsoft.Web/sites/TemeratureMonitoring"
+"TemperatureData (itexplorationserver/TemperatureData)","SQL database","North Central US","https://portal.azure.com#resource/subscriptions/fc14a5fd-5bc6-49a1-aff1-d5deb707e2d5/resourceGroups/ITExploration/providers/Microsoft.Sql/servers/itexplorationserver/databases/TemperatureData"
